@@ -4,7 +4,8 @@
  目前完成了首页，类别，我的，播放页，关于，免责。<br><br>
  个人中心，登录/注册，设置，反馈，搜索，播放记录还没做，播放页切换集数还没写完（完全没动力，瘫痪在天桥底下）。<br><br>
  后面慢慢加上去吧，恩...慢慢来慢慢来一点都不急﻿ε≡٩(๑>₃<)۶ ###<br><br>
-
+ 
+ 开发：[onemengxin](https://github.com/onemengxin)、[byron-xie](https://github.com/byron-xie)
 ## 应用截图
 
  首页<br>
