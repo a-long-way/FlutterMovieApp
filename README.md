@@ -20,7 +20,3 @@
  播放<br>
  <img src="http://img.movie.app.bteee.com/bofang.jpg" width="300" alt="图片加载失败时，显示这段字"/>
 
-## 最后日常乞讨
-
- 有钱的大佬给口饭吃吧 ![yaofan](http://img.movie.app.bteee.com/photo_2018-12-16_04-40-31.jpg)<br/>
-<img src="http://img.movie.app.bteee.com/photo_2018-12-11_15-58-21.jpg" width="200" alt="图片加载失败时，显示这段字"/><img src="http://img.movie.app.bteee.com/photo_2018-12-11_15-58-25.jpg" width="200" alt="图片加载失败时，显示这段字"/>
