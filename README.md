@@ -5,7 +5,7 @@
  个人中心，登录/注册，设置，反馈，搜索，播放记录还没做，播放页切换集数还没写完。<br><br>
  后面慢慢加上去吧，恩...<br><br>
  
- 开发：[onemengxin](https://github.com/onemengxin)、[byron-xie](https://github.com/byron-xie)
+ 开发：[lire277](https://github.com/lire277)
 ## 应用截图
 
  首页<br>
